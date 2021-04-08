@@ -1,0 +1,29 @@
+header{
+    text-align: center;
+    justify-content: center;
+    border: 5px solid black;
+}
+
+article{
+    text-align: center;
+}
+
+
+.section{
+    text-align: right;
+    flex-wrap: wrap
+
+}
+
+.mark-green{
+    border: 10px dotted black
+
+}
+body{
+    flex-wrap: wrap;
+}
+
+.container{
+    border: 3px solid black;
+
+}
